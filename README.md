@@ -17,6 +17,9 @@ Projeyi [Rick and Morty API](https://rickandmortyapi.com/) kullanarak yaptım.
 * Bölümler sayfasında bölüm detayları ve bölümlerde oynayan karakterler listeleniyor.
 * Lokasyon sayfasında lokasyon bilgileri ve lokasyondaki karakterler listeleniyor.
 
+## Video :
+![GIF](./image/bandicam%202022-11-15%2019-26-11-884.gif)
+
 ## Masaüstü görünüm :
 ![desktop image](./image/ss-ch-page.png)
 
